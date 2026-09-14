@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main() {
-   std::cout << "Bonjour PRG" << std::endl;
+   std::cout << "Bonjour PRG !" << std::endl;
    return 0;
 }
