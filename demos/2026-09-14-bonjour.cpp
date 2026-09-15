@@ -1,7 +1,10 @@
 // Semaine 1 : premier programme, compilation, exécution.
+#include <cstdlib>
 #include <iostream>
 
+using namespace std;
+
 int main() {
-   std::cout << "Bonjour PRG !" << std::endl;
-   return 0;
+   cout << "Bonjour PRG !" << endl;
+   return EXIT_SUCCESS;
 }
